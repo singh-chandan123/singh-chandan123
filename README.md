@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Web Development using MERN Stack.**
 
-- 💬 Ask me about **C++,Data Structures and Algorithms.**
-
 - 📫 How to reach me **singhchandan5810@gmail.com**
 
 - ⚡ Fun fact **I am funny🤣**
